@@ -1,3 +1,6 @@
+**Development on this fork has been discontinued. You can check out
+https://github.com/richih/modbus_exporter instead.**
+
 # Modbus exporter
 
 Prometheus exporter which retrieves stats from a modbus tcp system and exports
